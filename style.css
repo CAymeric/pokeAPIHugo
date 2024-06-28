@@ -1,0 +1,19 @@
+.gras {
+    font-weight: 900;
+}
+
+.good {
+    color: red;
+}
+
+.middlegood {
+    color: orange;
+}
+
+.ineficace {
+    color: grey;
+}
+
+.notgood {
+    color: green;
+}
